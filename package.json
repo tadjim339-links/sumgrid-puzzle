@@ -1,0 +1,9 @@
+{
+  "name": "sumgrid",
+  "version": "1.0.0",
+  "description": "Generate row-and-column sum puzzles with exactly one answer",
+  "main": "index.js",
+  "scripts": { "test": "node test.js" },
+  "license": "MIT",
+  "homepage": "https://cozypuzzlegames.com/math-puzzles/"
+}
